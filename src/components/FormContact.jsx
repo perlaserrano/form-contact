@@ -162,7 +162,11 @@ export const FormContact = () => {
           <Button/>
         </form>
       </div>
+        <div>
       <Footer/>
+
+        </div>
+
     </>
   );
 };
