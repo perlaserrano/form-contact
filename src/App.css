@@ -183,3 +183,22 @@ textarea {
   
 }
 
+@media screen and (max-width: 1199px) {
+  .form-group {
+    width: 63%;
+  }
+
+  .form-subgroup {
+    grid-template-columns: 1fr;
+  }
+  textarea {
+    height: 10rem;
+  }
+
+  .footer {
+    display: none;
+  }
+  
+  
+}
+
